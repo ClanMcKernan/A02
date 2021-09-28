@@ -16,5 +16,6 @@ class App
 
 		//Test if we both push on same version on diff lines
 		//both putting change on line 18
-	}
+	
+	} // Comment here for no reason
 }
