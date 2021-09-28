@@ -16,6 +16,7 @@ class App
 
 		//Test if we both push on same version on diff lines
 		//both putting change on line 18
+		//Testing final change for .gitignore test
 	
 	} // Comment here for no reason
 }
